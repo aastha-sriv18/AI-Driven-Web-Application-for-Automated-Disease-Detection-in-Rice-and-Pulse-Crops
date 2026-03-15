@@ -1,0 +1,28 @@
+# environment variables
+.env
+.env.*
+frontend/.env
+backend/.env
+
+# node modules
+node_modules/
+
+# python cache
+__pycache__/
+*.pyc
+
+# build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+
+venv/
+
+*.db
+instance/
