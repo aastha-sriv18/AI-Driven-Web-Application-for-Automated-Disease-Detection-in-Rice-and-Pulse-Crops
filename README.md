@@ -15,9 +15,6 @@ The project uses a **Flask backend** for API handling and machine learning integ
 * Supports multiple crop disease categories
 * User authentication (Signup & Login)
 * Dashboard for accessing reports and predictions
-* Weather-based disease risk analysis
-* PDF report generation
-* Analytics dashboard
 * Profile image upload support
 * Responsive React frontend
 
@@ -31,7 +28,6 @@ The application uses a trained deep learning model to classify plant diseases fr
 * Description
 * Prevention methods
 * Treatment suggestions
-* Weather-based risk insights
 
 ---
 
