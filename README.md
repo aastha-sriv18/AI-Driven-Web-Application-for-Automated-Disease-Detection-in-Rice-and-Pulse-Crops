@@ -71,7 +71,7 @@ project-root/
 │   └── .env
 │
 ├── static/
-|   ├── uploads/
+│   ├── uploads/
 │   └── frontend/
 │
 ├── ai_report.py
